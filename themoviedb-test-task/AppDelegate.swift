@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  themoviedb-test-task
-//
-//  Created by Vlad Kosmach on 5/22/18.
-//  Copyright © 2018 Vlad Kosmach. All rights reserved.
-//
-
 import UIKit
 import CoreData
 
