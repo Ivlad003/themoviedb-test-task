@@ -6,7 +6,6 @@ use_frameworks!
 
 target 'themoviedb-test-task' do
     pod 'Alamofire', '~> 4.7'
-    pod 'HandyJSON', '~> 4.1.1'
     pod 'Gloss', '~> 2.0'
     pod "youtube-ios-player-helper", "~> 0.1.4"
     pod 'ImageSlideshow', '~> 1.5'
